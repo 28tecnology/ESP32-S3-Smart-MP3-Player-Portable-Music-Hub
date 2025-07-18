@@ -114,5 +114,5 @@ Whether as a desktop music player, core of outdoor portable speakers, or audio m
 This player is not just a music playback tool but also an expandable audio platform - you can add a Bluetooth module for wireless transmission or extend FM radio functionality according to your needs, making it your truly personalized music hub.
 
 
-> （注：文档部分内容可能由 AI 生成）
+> 
 >
